@@ -3,7 +3,7 @@
 <h2>>Per far funzionare il progetto</h2>
 
 <ul>
-    <li>Installare <ahref="https://laragon.org/download/index.html">laragon</a></li>
+    <li>Installare <a href="https://laragon.org/download/index.html">laragon</a></li>
     <li>mettere la cartella del progetto in www</li>
     <li>aprire il progetto tramite terminale</li>
     <li>creare il database chiamato 'laravel8'</li>
